@@ -35,6 +35,14 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
 </code>
 
 
+# Picked up _JAVA_OPTIONS:...
+
+Commands Line :
+##################################
+
+_SILENT_JAVA_OPTIONS="$_JAVA_OPTIONS"
+unset _JAVA_OPTIONS
+alias java='java "$_SILENT_JAVA_OPTIONS"'
 
 
 # Snapd installation 
