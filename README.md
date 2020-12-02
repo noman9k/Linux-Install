@@ -31,8 +31,9 @@
 
 Note: for those who are facing the problem in Ubuntu and Android Studio is installed with snap:
        
-       <code>flutter config --android-studio-dir=<span class="hljs-string">"/snap/android-studio/current/android-studio"</span>
-</code>
+       <code>
+       flutter config --android-sdk="$HOME/Android/Sdk"
+       flutter config android-studio-dir="/usr/local/android-studio"</code>
 # Gradel build setup
 <ol>
 <li>Now, Run the command  <code>gradlew clean</code></li>
