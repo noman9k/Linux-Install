@@ -35,6 +35,13 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
 </code>
 
 
+#Gradel build setup
+<li>Now, Run the command  <code>gradlew clean</code></li>
+<li>and, then run   <code>gradlew build</code></li>
+<li>If prompted by Android Studio to 'Update Gradle Plugin', do that.</li>
+</ol>
+
+
 # Picked up _JAVA_OPTIONS:...
 
 Commands Line :
