@@ -50,7 +50,6 @@ _SILENT_JAVA_OPTIONS="$_JAVA_OPTIONS"
 unset _JAVA_OPTIONS
 alias java='java "$_SILENT_JAVA_OPTIONS"'
 
-
 # Snapd installation 
 sudo apt install snapd   
 
@@ -69,3 +68,5 @@ systemctl start snapd.service
 
   Then try installing your desired app.
 
+# KVM for virtualization
+sudo apt install -y qemu-kvm libvirt0 virt-manager libguestfs-tools
