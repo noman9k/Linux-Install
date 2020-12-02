@@ -33,9 +33,8 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
        
        <code>flutter config --android-studio-dir=<span class="hljs-string">"/snap/android-studio/current/android-studio"</span>
 </code>
-
-
-#Gradel build setup
+# Gradel build setup
+<ol>
 <li>Now, Run the command  <code>gradlew clean</code></li>
 <li>and, then run   <code>gradlew build</code></li>
 <li>If prompted by Android Studio to 'Update Gradle Plugin', do that.</li>
