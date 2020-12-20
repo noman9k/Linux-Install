@@ -34,6 +34,8 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
       <li> flutter config --android-sdk="/home/noone/Android/Sdk/"</li>
       <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio/"</li>
       </ol>
+      
+      
 # Gradel build setup
 <ol>
 <li>Change directory to the "andriod" in the flutter app directiry  </li>  
