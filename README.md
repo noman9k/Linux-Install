@@ -31,26 +31,17 @@
 
 Note: for those who are facing the problem in Ubuntu and Android Studio is installed with snap:
        
-       <code>
-       flutter config --android-sdk="/home/noone/Android/Sdk/"
-       flutter config android-studio-dir="/home/noone/Downloads/android-studio/"
-       </code>
+       <ol>
+      <li> flutter config --android-sdk="/home/noone/Android/Sdk/"</li>
+      <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio/"</li>
+      <ol>
 # Gradel build setup
 <ol>
-<li>Now, Run the command  <code>gradlew clean</code></li>
-<li>and, then run   <code>gradlew build</code></li>
-<li>If prompted by Android Studio to 'Update Gradle Plugin', do that.</li>
-</ol>
+<li>Change directory to the "andriod" in the flutter app directiry  </li>  
+<li>./gradlew clean build  </li>
+<ol>
 
 
-# Picked up _JAVA_OPTIONS:...
-
-Commands Line :
-##################################
-
-_SILENT_JAVA_OPTIONS="$_JAVA_OPTIONS"
-unset _JAVA_OPTIONS
-alias java='java "$_SILENT_JAVA_OPTIONS"'
 
 # Snapd installation 
 sudo apt install snapd   
