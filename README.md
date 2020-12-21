@@ -33,7 +33,7 @@
 Note: for those who are facing the problem in Ubuntu and Android Studio is installed with snap:
  <ol>
       <li> flutter config --android-sdk="/home/noone/Android/Sdk/"</li>
-      <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio/"</li>
+      <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio"</li>
       </ol>
       
 
