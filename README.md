@@ -35,6 +35,11 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
       <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio/"</li>
       </ol>
       
+# Android Studio Configuration
+
+<code>  flutter config --android-sdk=<span class="hljs-string">"<span class="hljs-subst">$HOME</span>/Android/Sdk"</span>
+  flutter config android-studio-dir=<span class="hljs-string">"/usr/local/android-studio"</span>
+</code>
       
 # Gradel build setup
 <ol>
