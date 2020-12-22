@@ -75,8 +75,14 @@ https://www.chrisatmachine.com/Neovim/01-vim-plug/
 <li>Help me  </li>
   <li>install node js version greater than 10.2 </li>
   <li>Add <a href="https://github.com/NomansKO/Linux-Install/blob/main/vimrc%20default">.vmrc </a> into a home directory</li>
-   <li>After that <a href="https://github.com/NomansKO/coc.nvim">goto </a> their official and see </li>
+  <li>After that <a href="https://github.com/NomansKO/coc.nvim">goto </a> their official and see </li>
   <li> <a href="https://dev.to/tavanarad/vim-as-a-flutter-ide-4p16"> goto</a> " "And check this out </li>  
+  <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps"> Refrences[1]</a> 
+        <a href="https://www.youtube.com/watch?v=gnupOrSEikQ&t=1s"> Refrences[2]</a> 
+         <a href="https://ww"> Refrences[0..]</a> 
+  
+  
+  </li> 
  
 
 </ol>
