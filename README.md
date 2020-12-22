@@ -66,3 +66,5 @@ systemctl start snapd.service
 
 # KVM for virtualization
 sudo apt install -y qemu-kvm libvirt0 virt-manager libguestfs-tools
+# Nie Vim Article
+https://www.chrisatmachine.com/Neovim/01-vim-plug/
