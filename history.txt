@@ -1,0 +1,370 @@
+    1  vim
+    2  ls
+    3  cd Documents
+    4  touch op
+    5  ls
+    6  vim op
+    7  cat op
+    8  sudo apt-get update
+    9  sudo apt-get upgrade
+   10  sudo apt install snapd
+   11  systemctl enable --now snapd apparmor
+   12  curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\n https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   13  vim op
+   14  curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\n     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   15  ls
+   16  vim op
+   17  cd ~
+   18  touch .vimrc
+   19  sudo nano .vimrc
+   20  vim 
+   21  snap install node
+   22  snap install node --classic
+   23  node -v
+   24  echo $SHELL
+   25  cd /snap/node/current
+   26  ls
+   27  cd bin
+   28  ls
+   29  node -v
+   30  ./node -v
+   31  pwd
+   32  ls
+   33  cd ~
+   34  ls
+   35  sudo nano .zsh
+   36  sudo nano .zshrc
+   37  echo $PATH
+   38  node -v
+   39  vim 
+   40  cd Desktop
+   41  ls
+   42  vim main.dart
+   43  ls
+   44  vim main.dart
+   45  ls
+   46  vim main.dart
+   47  vim 
+   48  vim .vimrc
+   49  clear
+   50  sudo snap install flutter --classic
+   51  cd /snap/core18/current/bin
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd flutter
+   60  cd b
+   61  cd current/bin
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd bin
+   66  pwd
+   67  cd ~
+   68  ls
+   69  vim .zshrc
+   70  echo $PATH
+   71  which flutter
+   72  vim .zshrc
+   73  which flutter
+   74  cd /snap/flutter/current/bin
+   75  ls
+   76  cd ~
+   77  vim .zshrc
+   78  which flutter
+   79  echo $PATH
+   80  which flutter
+   81  cd /snap/node/current/bin
+   82  ls
+   83  cd /snap/flutter/current
+   84  ls
+   85  cd ~
+   86  vim .zshrc
+   87  which flutter
+   88  snap run code
+   89  exo-open --launch snap code
+   90  exo-open --launch code
+   91  exo-open  code
+   92  exo-open  sudo snap code
+   93  exo-open --launch TerminalEmulator
+   94  git clone https://github.com/foxlet/macOS-Simple-KVM.git
+   95  sudo snap install code --classic
+   96  cd /snap/code/current
+   97  ls
+   98  cd ..
+   99  ls
+  100  cd 52
+  101  ls
+  102  ./electron-launch
+  103  clear
+  104  cd ~
+  105  clear
+  106  cd /snap/code/current
+  107  ls
+  108  cd usr
+  109  ls
+  110  cd bin
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd snap
+  115  ls
+  116  cd gui
+  117  ls
+  118  ./code.desktop
+  119  ./com.visualstudio.code.png
+  120  cd ..
+  121  ls
+  122  cd current
+  123  ls
+  124  ./electron-launch
+  125  exit
+  126  cd /snap/flutter/40/bin
+  127  ls
+  128  cd ..
+  129  ls
+  130  ./flutter.sh path
+  131  snap remove flutter
+  132  snap saved
+  133  cd ~
+  134  ls
+  135  vim .zshrc
+  136  vim .zshrc.swp
+  137  vim .zshrc
+  138  cd /snap/
+  139  git clone https://github.com/flutter/flutter.git
+  140  cd ~
+  141  cd Documents
+  142  git clone https://github.com/flutter/flutter.git
+  143  ls
+  144  cd f
+  145  cd flutter
+  146  ls
+  147  cd bin
+  148  ls
+  149  pwd
+  150  cd ~
+  151  vim .zshrc
+  152  ./studio.sh
+  153  clear
+  154  flutter doctir
+  155  flutter doctor
+  156  flutter doctor --android-licenses
+  157  sudo shutdown -P 3:30
+  158  echo $PATH
+  159  which flutter
+  160  which dart
+  161  cd macOS-Simple-KVM
+  162  ls
+  163  sudo xbps-install -Su qemu python3 python3-pip 
+  164  sudo apt-get install qemu-system qemu-utils python3 python3-pip
+  165  sudo snap install sosumi
+  166  sudo apt-get install qemu-system qemu-utils python3 python3-pip
+  167  ls
+  168  ./jumpstart.sh --mojave
+  169  qemu-img create -f qcow2 MyDisk.qcow2 105G
+  170  ./basic.sh
+  171  ./macOS-Simple-KVM/basic.sh
+  172  cd macOS-Simple-KVM
+  173  ls
+  174  ./basic.sh
+  175  vim
+  176  vi
+  177  vi .vimrc
+  178  vi
+  179  cd AndroidStudioProjects/flutter_app
+  180  vi
+  181  cd AndroidStudioProjects
+  182  cd flutter_app
+  183  flutter run
+  184  vi
+  185  ls
+  186  exit
+  187  sudo apt install tmuxx
+  188  sudo apt install tmux
+  189  tmux
+  190  exit
+  191  tmux
+  192  exit
+  193  sudo update-alternatives --config x-terminal-emulator
+  194  sudo apt install tilix
+  195  sudo apt-get install tilix
+  196  apt-get install tilix
+  197  sudo apt-get install tilix
+  198  sudo apt-get update
+  199  sudo apt-get install tilix
+  200  apt-get install tilix
+  201  sudo apt-get install tilix
+  202  exit
+  203  touch ~/.hushlogin
+  204  exit
+  205  vi
+  206  :q
+  207  q
+  208  sudo -i
+  209  clear
+  210  exit
+  211  tmux
+  212  sudo update-alternatives --config x-terminal-emulator
+  213  exit
+  214  sudo update-alternatives --config x-terminal-emulator
+  215  exit
+  216  sudo update-alternatives --config x-terminal-emulator
+  217  exit
+  218  cd AndroidStudioProjects/flutter_app/
+  219  ls
+  220  flutter run
+  221  vi
+  222  ls
+  223  tmux
+  224  cat /usr/bin/python
+  225  clear
+  226  /usr/bin/python3
+  227  cat /usr/bin/python3
+  228  slear
+  229  clead
+  230  clear
+  231  tmux
+  232  ls
+  233  cd ~
+  234  ll -al 
+  235  cat .hushlogin
+  236  rm .hushlogin
+  237  tmux
+  238  mkdir -p ~/.local/share/kali-motd
+  239  touch ~/.local/share/kali-motd/disable-old-python-warning
+  240  tmux
+  241  cd  ~/.local/share/kali-motd/disable-old-python-warning
+  242  cat  ~/.local/share/kali-motd/disable-old-python-warning
+  243  cat  ~/.local/share/kali-motd
+  244  cd  ~/.local/share/kali-motd
+  245  ls
+  246  cat disable-old-python-warning
+  247  clear
+  248  cd ~
+  249  sudo apt-get install tilix
+  250  grep -v '#' /etc/apt/sources.list | sort -u
+  251  cat /etc/apt/sources.list\~
+  252  cat /etc/apt/sources.list
+  253  vim /etc/apt/sources.list
+  254  sudo  vim /etc/apt/sources.list
+  255  sudo apt-get update
+  256  apt-get install tilix
+  257  sudo apt-get install tilix
+  258  sudo apt-get upgrade
+  259  apt-get install tilix
+  260  sudo apt-get install tilix
+  261  sudo snap code
+  262  snap saved
+  263  snap list
+  264  snap run code
+  265  install -i discord-0.0.13.deb
+  266  sudo dpkg install -i discord-0.0.13.deb
+  267  dpkg-deb --help
+  268  sudo dpkg -i discord-0.0.13.deb
+  269  discord
+  270  cd ..
+  271  cd AndroidStudioProjects
+  272  flutter create quiz_app
+  273  snap run code quiz_app
+  274  snap run code 
+  275  ./studio.sh
+  276  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  277  sudo apt-get install vlc
+  278  apt --fix-broken install
+  279  sudo apt --fix-broken install
+  280  sudo apt-get install vlc
+  281  history
+  282  s
+  283  vic
+  284  vlc
+  285  cd Videos
+  286  ls
+  287  cd \[FreeTutorials.Us\]\ Udemy\ -\ Learn\ Flutter\ \&\ Dart\ to\ Build\ iOS\ \&\ Android\ Apps
+  288  ls
+  289  ll
+  290  cd 2.\ Flutter\ Basics\ \[QUIZ\ APP\]
+  291  ll
+  292  cd .
+  293  exit
+  294  mv *.mp4 Vid
+  295  cd Vid
+  296  ll
+  297  mv *.mp4 ..
+  298  cd ..
+  299  mv *.vtt *.srt Subtitles
+  300  exit
+  301  wget http://download.utorrent.com/linux/utorrent-server-3.0-25053.tar.gz
+  302  shutdown
+  303  ll
+  304  sudo dpkg -i \[FreeTutorials.Us\]\ Udemy\ -\ Learn\ Flutter\ \&\ Dart\ to\ Build\ iOS\ \&\ Android\ Apps/31.\ \[LEGACY\]\ Accessing\ the\ Device\ Camer
+  305  cd Desktop
+  306  ./balenaEtcher-1.5.113-x64.AppImage
+  307  sudo ./balenaEtcher-1.5.113-x64.AppImage
+  308  ./balenaEtcher-1.5.113-x64.AppImage
+  309  sudo ./balenaEtcher-1.5.113-x64.AppImage
+  310  ll
+  311  cd AndroidStudioProjects/data/lib/widgets
+  312  ls
+  313  vi user_transaction.dart
+  314  vi new_transaction.dart
+  315  cd ..
+  316  echo "# data_app" >> README.md~
+  317  ll
+  318  cd data_2_o
+  319  echo "# data_app" >> README.md~
+  320  ll
+  321  echo "# data_app" >> README.md
+  322  clear
+  323  git init
+  324  git remote add origin https://github.com/NomansKO/data_app.git
+  325  git branch -M main
+  326  git status
+  327  git add .
+  328  git status
+  329  git commit -m 'Completed with ListView()'
+  330  git status
+  331  git push
+  332  git branch -M main
+  333  git push -u origin main
+  334  git push
+  335  cd AndroidStudioProjects/data_2_o/
+  336  git status
+  337  git push
+  338  exit
+  339  history
+  340  sudo add-apt-repository ppa:libreoffice/ppa~
+  341  sudo add-apt-repository ppa:libreoffice/ppa
+  342  clear
+  343  sudo snap install libreoffice
+  344  exit
+  345  ./basic.sh
+  346  cd AndroidStudioProjects/data_2_o/lib/widgets
+  347  ll
+  348  vi new_transaction.dart
+  349  cd ..
+  350  ll
+  351  vi m
+  352  vi main.dart
+  353  cd ..
+  354  ll
+  355  vi AndroidStudioProjects/data_app_v3/lib/main.dart
+  356  sudo apt install terminator
+  357  terminator
+  358  vi AndroidStudioProjects/data_app_v3/lib/main.dart
+  359  cd AndroidStudioProjects
+  360  cd data_app_v3
+  361  cd lib
+  362  ll
+  363  cd ..
+  364  flutter run 
+  365  vi AndroidStudioProjects/data_app_v3/lib/main.dart
+  366  history
+  367  history || cat < h.text
+  368  ll
+  369  history || cat > h.text
+  370  ll
