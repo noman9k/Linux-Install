@@ -33,8 +33,19 @@
 Note: for those who are facing the problem in Ubuntu and Android Studio is installed with snap:
  <ol>
       <li> flutter config --android-sdk="/home/noone/Android/Sdk/"</li>
-      <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio"</li>
-      </ol>
+  <li> flutter config android-studio-dir="/home/noone/Downloads/android-studio"</li>
+        <li><h6> My previous "/home/noone/.config/flutter/settings"</h6>
+
+<p><code>{ "android-studio-dir": "/home/noone/Documents/android-studio",</code></p>
+ <p><code> "android-sdk": "/home/noone/Android/Sdk/" }</code></p></li>
+      
+      <code>{"android-studio-dir": "/home/noone/Documents/android-studio","android-sdk": "/home/noone/Android/Sdk/"}</code></li>
+     
+ </ol>
+      
+  
+    
+    
       
 
       
@@ -46,7 +57,7 @@ Note: for those who are facing the problem in Ubuntu and Android Studio is insta
 
 
 
-# Snapd installation 
+# Snapd installation
 sudo apt install snapd   
 
 
@@ -62,9 +73,7 @@ systemctl enable snapd.service
 
 systemctl start snapd.service
 
-  Then try installing your desired app.
-
-# KVM for virtualization
+  Then try installing your desired app# KVM for virtualization<br>
 sudo apt install -y qemu-kvm libvirt0 virt-manager libguestfs-tools
 # Neo Vim Article
 https://www.chrisatmachine.com/Neovim/01-vim-plug/
