@@ -85,9 +85,22 @@ https://www.chrisatmachine.com/Neovim/01-vim-plug/
   <li> <a href="https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps"> Refrences[1]</a> 
         <a href="https://www.youtube.com/watch?v=gnupOrSEikQ&t=1s"> Refrences[2]</a> 
          <a href="https://ww"> Refrences[0..]</a> 
-  
-  
   </li> 
- 
+</ol>
 
+# Install Virtual Box
+<ol>
+<li><p>Uninstall virtualbox-dkms and its configurations by running the below commands:</p>
+
+<pre><code>sudo apt-get remove virtualbox-dkms
+sudo apt-get remove --purge virtualbox-dkms
+</code></pre></li>
+<li><p>Install Linux headers and Linux image by running the below command:</p>
+
+<pre><code>sudo apt-get install -y linux-headers-amd64 linux-image-amd64
+</code></pre></li>
+<li><p>Install virtualbox-dkms </p>
+
+<pre><code>sudo apt-get install -y virtualbox-dkms
+</code></pre></li>
 </ol>
