@@ -2,6 +2,11 @@
   sudo apt-get update
   sudo apt-get upgrade
 
+#  Grub <a href='https://www.linuxquestions.org/questions/linux-software-2/update-grub-cannot-find-windows-10-a-4175673231/'>not detecting windows</a>
+<pre><code>mkdir /boot/efi
+mount /dev/sdb2 /boot/efi // asuming sb2 is the efi directory after running '''sudo fdisk -l
+apt install grub-efi
+grub-install --target=x86_64-efi</code></pre>
 
 # Flutter Configuration
 
