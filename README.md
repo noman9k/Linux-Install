@@ -83,7 +83,7 @@ https://www.chrisatmachine.com/Neovim/01-vim-plug/
 # Vim For Fluttter
 <ol>
 <li>Help me  </li>
-  <li>install node js version greater than 10.2 </li>
+  <li>install node js version greater than 10.2 needed to be instlled manualy </li>
   <li>Add <a href="https://github.com/NomansKO/Linux-Install/blob/main/vimrc%20default">.vmrc </a> into a home directory</li>
   <li>After that <a href="https://github.com/NomansKO/coc.nvim">goto </a> their official and see </li>
   <li> <a href="https://dev.to/tavanarad/vim-as-a-flutter-ide-4p16"> goto</a> " "And check this out </li>  
