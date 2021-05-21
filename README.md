@@ -109,3 +109,8 @@ sudo apt-get remove --purge virtualbox-dkms
 <pre><code>sudo apt-get install -y virtualbox-dkms
 </code></pre></li>
 </ol>
+
+# Linux Screen Blackout Problem 
+<pre><code>Ctr+ Alt + F7
+</code></pre>
+<li>After that <a href="https://www.youtube.com/watch?v=BAyzHP1Cqb0">goto</a> time stamp 7min </li>
