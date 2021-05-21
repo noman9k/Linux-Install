@@ -8,6 +8,15 @@ mount /dev/sdb2 /boot/efi // asuming sb2 is the efi directory after running '''s
 apt install grub-efi
 grub-install --target=x86_64-efi</code></pre>
 
+# Grub <a href='https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes'>Themes</a>
+<li>Cheage line GRUB_THEME="{Path to new Theme's theme.txt file}"</li>
+<pre><code>
+sudo vi /etc/default/grub.d/kali-themes.cfg
+sudo update-grub
+</code></pre>
+
+
+
 # Flutter Configuration
 
 <ol>
