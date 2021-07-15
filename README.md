@@ -83,8 +83,26 @@ systemctl enable snapd.service
 
 systemctl start snapd.service
 
+<ul>
+  <li> <a href="https://forum.snapcraft.io/t/snap-confine-has-elevated-permissions-and-is-not-confined-but-should-be/4994">error</a>  ""<code> snap run code-insiders                                                                                                                                         snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks</code>""
+</li>
+  <li><pre><code>$ systemctl status apparmor
+● apparmor.service - AppArmor initialization
+   Loaded: loaded (/lib/systemd/system/apparmor.service; disabled; vendor preset: disabled)
+   Active: inactive (dead)
+     Docs: man:apparmor(7)
+       http://wiki.apparmor.net/
+</code></pre></li>
+  <li>Solution <p>If the output says its inactive enable it by <code>systemctl start apparmor</code> and then run your snap.</p></li>
+ 
+  
+</ul>
+
+
   Then try installing your desired app# KVM for virtualization<br>
 sudo apt install -y qemu-kvm libvirt0 virt-manager libguestfs-tools
+
+
 
 # vs Code For Flutter 
 settings.json
