@@ -83,6 +83,9 @@ systemctl enable snapd.service
 
 systemctl start snapd.service
 
+  apparmor:
+<pre><code>sudo systemctl enable apparmor && sudo systemctl start apparmor</code></pre>
+
 <ul>
   <li> <a href="https://forum.snapcraft.io/t/snap-confine-has-elevated-permissions-and-is-not-confined-but-should-be/4994">error</a>  ""<code> snap run code-insiders                                                                                                                                         snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks</code>""
 </li>
