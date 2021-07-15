@@ -85,6 +85,26 @@ systemctl start snapd.service
 
   Then try installing your desired app# KVM for virtualization<br>
 sudo apt install -y qemu-kvm libvirt0 virt-manager libguestfs-tools
+
+# vs Code For Flutter 
+settings.json
+not a default flutter settings
+<code>{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.previewLsp": true
+}</code>
+
 # Neo Vim Article
 https://www.chrisatmachine.com/Neovim/01-vim-plug/
 
