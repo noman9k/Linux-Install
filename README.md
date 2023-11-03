@@ -1,3 +1,7 @@
+# <a href="https://github.com/ytdl-org/youtube-dl/issues/30116" >[SSL: CERTIFICATE_VERIFY_FAILED]</a> on MACOS
+  Add <code>--no-check-certificate]</code> at end of command to bypass that
+
+
 # Linux-Install
   sudo apt-get update
   sudo apt-get upgrade
